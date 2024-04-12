@@ -1,4 +1,4 @@
-# Car-Registry
+# AutoXchange: Decentralized Car Reselling Website Using Blockchain
 AutoXchange Decentralized Car Reselling Website
 Welcome to the AutoXchange repository! This decentralized car reselling website allows users to register their cars, explore available cars for sale, make purchase requests, and facilitate the transfer of ownership from the seller to the buyer.
 
